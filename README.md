@@ -1,5 +1,5 @@
 <!-- Project Title -->
-<h1 align="center">Aviral Digital Solutions/h1>
+<h1 align="center">Aviral Digital Solutions </h1>
 
 <!-- Project Description -->
 <p align="center">
@@ -28,11 +28,9 @@
 <!-- Table of Contents -->
 <p align="center">
   <a href="#introduction">Introduction</a> •
-  <a href="#features">Features</a> •
   <a href="#technologies-used">Technologies Used</a> •
   <a href="#installation">Installation</a> •
   <a href="#usage">Usage</a> •
-  <a href="#live-demo">Live Demo</a> •
   <a href="#contributing">Contributing</a> •
   <a href="#license">License</a>
 </p>
