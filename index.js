@@ -39,6 +39,7 @@ app.get("/", (request, response) => {
 });
 
 
-app.listen(8080, () => {
-    console.log("Server started.");
+const port = process.env.PORT || 8080;
+app.listen(port, () => {
+  console.log(`Server is running on port ${port}`);
 });
